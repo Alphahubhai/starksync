@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Hexagon shape -->
+    <path d="M100 10L170 50V140L100 180L30 140V50L100 10Z" stroke="white" stroke-width="6" fill="none"/>
+    
+    <!-- 'S' shape inside the hexagon -->
+    <path d="M75 50C55 60 65 85 85 90C105 95 115 120 95 130M95 130L65 120M95 130L120 140" stroke="white" stroke-width="6" fill="none"/>
+    
+    <!-- Circuit like patterns -->
+    <circle cx="65" cy="80" r="5" fill="white"/>
+    <circle cx="120" cy="95" r="5" fill="white"/>
+  </g>
+</svg> 
